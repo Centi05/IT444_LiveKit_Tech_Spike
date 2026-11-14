@@ -1,0 +1,7 @@
+participants,target_fps,intervals,infer_fps_mean,infer_fps_min,dropped_fps_mean,model_ms_median,model_ms_p95,cpu_mean,cpu_max,intervals_over_50,temp_max,throttled,meets_target_fps,meets_cpu_50
+1,5.0,12,4.98,4.9,0.0,72.52,78.57,24.71,57.4,1,51.1,['0x0'],True,True
+2,5.0,12,4.97,4.7,0.0,84.34,101.6,40.25,45.4,0,54.0,['0x0'],True,True
+3,5.0,12,3.69,1.7,1.11,113.67,258.88,83.57,95.0,12,59.4,['0x0'],False,False
+4,5.0,12,4.04,2.6,0.84,113.98,147.75,90.79,95.1,12,63.3,['0x0'],False,False
+3,2.5,12,2.61,2.5,0.0,85.8,133.24,46.64,57.0,3,56.4,['0x0'],True,True
+4,2.5,12,2.59,2.3,0.01,94.7,118.85,60.71,73.1,12,58.9,['0x0'],True,False

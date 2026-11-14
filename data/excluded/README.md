@@ -1,0 +1,1 @@
+`receive_bench_first_attempt_INVALID.csv`: first benchmark attempt. A fixed subscriber identity let several concurrent runs kick each other out of the room, so receive rates dropped to 0 and convert+resize times were stale. Replaced by runs with a unique identity per run. Kept only as a record; do not use for results.

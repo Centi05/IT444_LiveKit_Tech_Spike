@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+spike-env/
+*.mp4
+*.wav
+*.tflite
+*.tgz
